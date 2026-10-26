@@ -1,3 +1,4 @@
+CO-PRODUCT BY ME
 # 🍽️ Savora
 
 **Savora** is a modern, responsive recipe discovery web app built to make deciding what to cook simple and enjoyable. Browse curated recipes, search by ingredients or dishes, filter by cuisine, difficulty and cooking time, and save your favorites locally.
